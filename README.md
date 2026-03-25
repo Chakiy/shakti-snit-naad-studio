@@ -1,0 +1,20 @@
+# Naald & Draad — Static Site
+
+## Структура
+.
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+└── assets/
+    ├── icons/
+    │   ├── favicon.svg
+    │   ├── icon-needle.svg
+    │   └── logo.svg
+    └── img/
+        └── (ваши фото/изображения)
+
+## Деплой
+- **Netlify/Vercel**: просто перетяните папку в панель или подключите репозиторий.
+- Корневой файл: `index.html`. Доп. настроек не требуется.
